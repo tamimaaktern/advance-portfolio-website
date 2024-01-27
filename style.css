@@ -315,7 +315,7 @@ nav :hover{
 }
 .sc5{
     background-color: rgb(18, 18, 37);
-    height: 950px;
+    height: 100%;
     width: 100%;
     margin-top: -50px;
 }
@@ -354,6 +354,66 @@ nav :hover{
     color: rgb(184, 181, 181);
     width: 600px;
     font-size: 17px;
+}
+.lng{
+    display:flex;
+    justify-content: center;
+}
+.lng1{
+    margin-right: 20px;
+}
+.lng1 p{
+    color: aliceblue;
+    background-color: rgb(62, 63, 104);
+    height: 20px;
+    width: 570px;
+    font-size: 20px;
+    padding: 20px;
+}
+.lng1 h5{
+    background-color: mediumspringgreen;
+    height: 6px;
+    width: 500px;
+    margin-top: -20px;
+}
+.sc6{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+
+}
+.prt{
+    margin-left: 280px;
+    padding: 40px;
+}
+.prt h4{
+    color: mediumspringgreen;
+    font-size: 20px;
+    line-height: 60px;
+}
+.prt h1{
+    color: aliceblue;
+    font-size: 50px;
+    margin-top: -50px;
+}
+.prtimg {
+    display: flex;
+    margin-left: 300px;
+}
+.prtimg1 img{
+    height: 600px;
+    width: 800px;
+}
+.prtimg2 img{
+    height: 600px;
+    width: 450px;
+    margin-left: 40px;
+
+}
+.prtimg3 img{
+    height: 600px;
+    width: 650px;
+    margin-top: 30px;
 }
 footer{
     background-color: black;
