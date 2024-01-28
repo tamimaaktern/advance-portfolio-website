@@ -503,6 +503,33 @@ nav :hover{
     font-size: 150px;
 
 }
+.sc8{
+    background-color: #131414;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+}
+.sub h3{
+    color: aliceblue;
+    font-size: 30px;
+}
+.text {
+    width: 500px;
+    padding: 25px;
+    background-color: rgb(36, 35, 35);
+    border: 1px solid mediumspringgreen;
+}
+.button{
+    margin-left: -110px;
+    padding: 18px;
+    width: 100px;
+    background-color: mediumspringgreen;
+}
+.button:hover{
+    background-color: aliceblue;
+}
 footer{
     background-color: black;
     height: 400px;
